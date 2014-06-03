@@ -1,3 +1,5 @@
+# Exploratory Data Analysis Course project 1
+# Plot 3
 df_names <- read.table(file = "household_power_consumption.txt",
                        sep = ";",
                        header = TRUE,
